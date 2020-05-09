@@ -1,1 +1,1 @@
-{"type":"sap.web","builders":{"configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hcpdeploy\":{\"account\":\"p1465783493trial\",\"name\":\"conversormoeda\",\"lastVersionWeTriedToDeploy\":\"4\"}}"]},"mixinTypes":[]}
+{"type":"sap.web","builders":{"configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hcpdeploy\":{\"account\":\"p1465783493trial\",\"name\":\"conversormoeda\",\"lastVersionWeTriedToDeploy\":\"4\"},\"projectType\":[\"sap.watt.uitools.ide.web\",\"sap.watt.uitools.ide.fiori\"]}"]},"mixinTypes":[]}
